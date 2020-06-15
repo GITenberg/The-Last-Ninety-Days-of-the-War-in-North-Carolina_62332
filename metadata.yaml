@@ -1,0 +1,29 @@
+_repo: The-Last-Ninety-Days-of-the-War-in-North-Carolina_62332
+_version: 0.0.1
+alternative_title: The Last 90 Days of the War in North-Carolina
+creator:
+  author:
+    agent_name: Spencer, Cornelia Phillips
+    alias: Spencer, C. P. (Cornelia Phillips)
+    birthdate: 1825
+    deathdate: 1908
+    gutenberg_agent_id: '51904'
+    url: http://www.gutenberg.org/2009/agents/51904
+    wikipedia: https://en.wikipedia.org/wiki/Cornelia_Phillips_Spencer
+description: ''
+gutenberg_issued: '2020-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62332'
+  lccn: 02008576
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcc 'E456'
+- !lcsh 'North Carolina -- History -- Civil War, 1861-1865'
+- GITenberg
+title: The Last Ninety Days of the War in North-Carolina
+url: http://www.gutenberg.org/ebooks/62332
