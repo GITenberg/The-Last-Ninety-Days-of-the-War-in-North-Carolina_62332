@@ -1,6 +1,9 @@
 _repo: The-Last-Ninety-Days-of-the-War-in-North-Carolina_62332
 _version: 0.1.0
 alternative_title: The Last 90 Days of the War in North-Carolina
+covers:
+- cover_type: archival
+  image_path: 62332-h/images/cover.jpg
 creator:
   author:
     agent_name: Spencer, Cornelia Phillips
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51904
     wikipedia: https://en.wikipedia.org/wiki/Cornelia_Phillips_Spencer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62332#The-Last-Ninety-Days-of-the-War-in-North-Carolina
 gutenberg_issued: '2020-06-06'
 gutenberg_type: Text
 identifiers:
